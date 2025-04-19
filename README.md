@@ -159,7 +159,7 @@ $$
   The frequency of atomic clocks near the Sun should deviate from general relativity by a term:
 
   $$
-  \frac{\Delta \nu}{\nu} = \alpha \frac{\Psi(R_\odot)}{c^2}
+   \frac{\Delta \nu}{\nu} = \alpha \frac{\Psi(R_\odot)}{c^2}
   $$
 
   where $\alpha \sim 10^{-12}$ is a dimensionless parameter.
@@ -168,7 +168,7 @@ $$
   The "Hubble tension" is said to be explained by local fluctuations in Ψ-time:
 
   $$
-  H_0 = H_\text{base} \left( 1 + \beta \frac{\delta \Psi}{\Psi_0} \right)
+   H_0 = H_\text{base} \left( 1 + \beta \frac{\delta \Psi}{\Psi_0} \right)
   $$
 
   $\Psi_0$ is the mean cosmological Ψ-time density.
